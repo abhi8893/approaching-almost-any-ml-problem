@@ -1,0 +1,9 @@
+.vscode
+.gdriveignore
+.DS_Store
+data/
+AAAMLP.pdf
+!.gitkeep
+!README.md
+.ipynb_checkpoints
+gdrive_config.txt
